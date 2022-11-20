@@ -11,7 +11,9 @@ Format ----> username:password
 
 For Custom use change following lines as per requirement:
 url = 'https://www.xxx.xxx/in/login'  # change login url as per need
+
 url_login_success = 'https://www.xxx.xxx/browse'  # this url must be a page right after successful login
+
 url_logout = 'https://www.xxx.xxx/in/logout'  # this must be a logout link
 
-Also based on internet/ page loading speed adjust time.sleep variabe.
+Also based on internet/ page loading speed adjust time.sleep variable.
