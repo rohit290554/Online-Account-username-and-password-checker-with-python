@@ -5,6 +5,10 @@ NOTICE: I (ROHIT SAXENA) created this code for EDUCATION PURPOSE ONLY.
 Any illegal or intentional harm or misuse of this code is strictly prohibited by the owner (Rohit Saxena GitHub ID: rohit290554) of this code. 
 For any illegal or intentional harm or misuse of this code, the Owner of this code (Rohit Saxena GitHub ID: rohit290554) will not be responsible.
 
+Add Usernames and Password in idpw.txt file
+Format ----> username:password
+
+
 For Custom use change following lines as per requirement:
 url = 'https://www.xxx.xxx/in/login'  # change login url as per need
 url_login_success = 'https://www.xxx.xxx/browse'  # this url must be a page right after successful login
